@@ -291,7 +291,23 @@ ul {
     width: 60%;
     object-fit: cover;
 }
+@media (min-width: 1200px) {
+    .aboth {
+        height: 65vh;
+    }
+    .red-social-icons {
+        margin-left: -50px;
+    }
+}
 
+@media (min-width: 1400px) {
+    .aboth {
+        height: 55vh;
+    }
+    .red-social-icons {
+        margin-left: -72px;
+    }
+}
 /* ====================================== */
 /* Countend */
 .Countend {
